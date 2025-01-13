@@ -18,8 +18,8 @@ const Header = () => {
     A Full-Stack Developer skilled in React, Node.js, MongoDB, and AWS, specializing in scalable web and mobile applications. Focused on performance optimization and seamless user experiences, I am passionate about leveraging modern technologies to deliver efficient and innovative solutions.
     </p>
     <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
-        <a href="#contacct" className='px-10 py-3 border border-white rounded-full bg-black text-white flex items-center gap-2'>Contact Me <Image src={assets.right_arrow_white} alt='' className='w-4'></Image></a>
-        <a href="/Yash_Padwani_Resume.pdf" download className='px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2'>My resume <Image src={assets.download_icon} alt='' className='w-4'></Image></a>
+        <a href="#contacct" className='px-10 py-3 border border-white rounded-full bg-black text-white flex items-center gap-2 dark:bg-transparent'>Contact Me <Image src={assets.right_arrow_white} alt='' className='w-4'></Image></a>
+        <a href="/Yash_Padwani_Resume.pdf" download className='px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2 bg-white dark:text-black'>My resume <Image src={assets.download_icon} alt='' className='w-4'></Image></a>
     </div>
     </div>
   )
