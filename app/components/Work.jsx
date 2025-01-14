@@ -31,7 +31,7 @@ const Work = (isDarkMode) => {
       whileInView={{opacity: 1}}
       transition={{delay: 0.3, duration: 0.5}}
 
-      className='text-center max-w-2xl mx-auto mt-5 mb-10 font-Ovo'>Welcome to my web development portfolio, showcasing diverse projects demonstrating my expertise in front-end development. Each project demonstrates my ability to create visually appealing and functional user interfaces using the latest technologies and best practices. Explore my work to observe seamless web experiences through responsive design, interactive features, and performance optimization. </motion.p>
+      className='text-center max-w-2xl mx-auto mt-5 mb-10 font-Ovo'>Hello! Take a look at my web development portfolio, featuring interesting projects that demonstrate my front-end skills. Each project displays my ability to create attractive and user-friendly interfaces using the latest technology and best practices. Explore my work to enjoy seamless web experiences with responsive design, interactive elements, and performance improvements. </motion.p>
 
 <motion.div 
 initial={{opacity: 0}}

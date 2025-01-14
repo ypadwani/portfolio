@@ -18,7 +18,7 @@ const Services = () => {
       whileInView={{y: 0, opacity: 1}}
       transition={{delay: 0.3, duration: 1}}
 
-      className='text-center mb-2 text-lg font-Ovo'>What I offer
+      className='text-center mb-2 text-lg font-Ovo'>
       </motion.h4>
 
       <motion.h2 
@@ -26,16 +26,21 @@ const Services = () => {
       whileInView={{y: 0, opacity: 1}}
       transition={{delay: 0.5, duration: 0.5}}
 
-      className='text-center text-5xl font-Ovo'>My Services
+      className='text-center text-5xl font-Ovo'>What I have learnt
       </motion.h2>
 
       <motion.p 
       initial={{opacity: 0}}
       whileInView={{opacity: 1}}
       transition={{delay: 0.7, duration: 0.5}}
-
-      className='text-center max-w-2xl mx-auto mt-5 mb-10 font-Ovo'>I specialize in delivering scalable, user-friendly applications that exceed client expectations. I optimize system performance for fluid user experiences and efficiency. I seamlessly integrate APIs to enhance functionality and connectivity. I test and debug code to ensure seamless and reliable operation. I manage data efficiently to support day-to-day operations and drive impactful results. My comprehensive skill set builds robust, efficient, and innovative solutions.
-      </motion.p>
+      className='text-center max-w-2xl mx-auto mt-5 mb-10 font-Ovo'>
+      * Developed and delivered high-quality, scalable, and user-friendly applications.<br />
+      * Optimize system performance to ensure seamless user experiences and optimal efficiency.<br />
+      * Seamlessly integrate APIs to enhance functionality and connectivity.<br />
+      * Test and debug code rigorously to ensure reliability.<br />
+      * Manage data efficiently for day-to-day operations and impactful results.<br />
+      * Develop a comprehensive skill set that builds robust, efficient, and innovative solutions.
+</motion.p>
 
       <motion.div 
       initial={{opacity: 0}}

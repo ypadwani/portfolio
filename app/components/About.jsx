@@ -56,7 +56,7 @@ const About = ({isDarkMode}) => {
 
         className='flex-1'>
 
-        <p className='mb-10 max-10-2x1 font-Ovo'>As an individual with a strong passion for transforming concepts into tangible, practical applications that have a tangible impact, I am dedicated to problem-solving and creating seamless and enjoyable user experiences. With an unwavering commitment to continuous learning and professional development, I thrive on challenging myself to overcome obstacles that foster my growth as a developer. My ultimate objective is to construct solutions that are not only efficient but also intuitive and user-friendly. Whether through ongoing education or engaging in exciting projects, I am constantly seeking opportunities to enhance my skills and contribute positively to society.</p>
+        <p className='mb-10 max-10-2x1 font-Ovo'>As a person deeply committed to converting theoretical ideas into effective, real-world solutions with significant influence, I focus on resolving issues and designing smooth, pleasurable user interactions. With a steadfast dedication to perpetual learning and career advancement, I excel in pushing my boundaries to surmount challenges that promote my evolution as a developer. My primary goal is to develop solutions that are both effective and user-centric. Whether through continuous education or participation in dynamic projects, I am always on the lookout for chances to refine my abilities and make a beneficial impact on society.</p>
 
         <motion.ul 
         initial={{opacity: 0}}
